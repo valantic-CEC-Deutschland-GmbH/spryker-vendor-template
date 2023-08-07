@@ -2,7 +2,6 @@
     "name": "valantic-spryker/example-package",
     "type": "library",
     "description": "Adds xxx yyy example-package.",
-    "license": "MIT",
     "require": {
         "php": ">=8.0"
     },
