@@ -12,7 +12,7 @@
 
 PHP Container: `docker run -it --rm --name my-running-script -v "$PWD":/data spryker/php:latest bash`
 
-Run Tests: `codecept run --env standalone`
+Run Tests: `vendor/bin/codecept run --env standalone`
 
 Fixer: `vendor/bin/phpcbf --standard=phpcs.xml --report=full src/ValanticSpryker/`
 
