@@ -6,10 +6,7 @@
  - Adds spryker xxx to yyy
 
 # Install
-- https://gitlab.nxs360.com/groups/packages/php/spryker/-/packages
-
-# Reference implementation
-- https://gitlab.nxs360.com/team-lr/glue-api
+`composer require valantic-spryker/example-package`
 
 # HowTos Cli
 
